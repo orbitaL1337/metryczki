@@ -61,8 +61,8 @@ export const footerLinkGroups: FooterLinkGroup[] = [
   {
     title: "Kontakt",
     links: [
-      { label: "kontakt@metryczkidladzieci.pl", href: "mailto:kontakt@metryczkidladzieci.pl" },
-      { label: "+48 000 000 000", href: "tel:+48000000000" },
+      { label: "damiannrams@gmail.com", href: "mailto:damiannrams@gmail.com" },
+      { label: "792 786 444", href: "tel:792786444" },
       { label: "Instagram", href: "https://instagram.com/metryczkidladzieci" },
     ],
   },
